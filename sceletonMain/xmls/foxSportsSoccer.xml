@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:fn="http://www.w3.org/2005/xpath-functions" version="2.0">
+	<channel>
+		<title>FOX Sports Digital</title>
+		<link>http://api.foxsports.com/v1/rss?tag=soccer</link>
+		<atom:link href="http://dallas.example.com/rss.xml" rel="self" type="application/rss+xml" />
+		<description>FOX Sports Content Feed</description>
+		<image>
+			<title>FOX Sports Digital</title>
+			<url>
+				http://www.foxsports.com/wp-content/themes/foxsports/assets/images/60x60.png
+			</url>
+			<link>
+				http://api.foxsports.com/v1/rss?tag=soccer
+			</link>
+		</image>
+		<pubDate>Sun, 17 Dec 2017 14:23:04 +0000</pubDate>		
+		<ttl>180</ttl>
+		<language>en-us</language>
+					<item>
+				<title>
+					<![CDATA[Egypt to play Portugal, Bulgaria in pre-WCup friendlies]]>
+				</title>
+				<link>
+					https://www.foxsports.com/soccer/story/egypt-to-play-portugal-bulgaria-in-pre-wcup-friendlies-121717
+				</link>
+				<guid>
+					https://www.foxsports.com/soccer/story/egypt-to-play-portugal-bulgaria-in-pre-wcup-friendlies-121717
+				</guid>
+				<category>soccer</category>
+				<description>
+					<![CDATA[ CAIRO (AP)  Egypt's soccer federation says the country's national team will meet Portugal and Bulgaria in friendly games as part of preparations for the 2018 World Cup in Russia.]]>
+				</description>
+				 				<pubDate>Sun, 17 Dec 2017 11:26:43 +0000</pubDate>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Ronaldo goal gives Real Madrid its 3rd Club World Cup title]]>
+				</title>
+				<link>
+					https://www.foxsports.com/soccer/story/ronaldo-goal-gives-real-madrid-its-3rd-club-world-cup-title-121617-2
+				</link>
+				<guid>
+					https://www.foxsports.com/soccer/story/ronaldo-goal-gives-real-madrid-its-3rd-club-world-cup-title-121617-2
+				</guid>
+				<category>soccer</category>
+				<description>
+					<![CDATA[ ABU DHABI, United Arab Emirates (AP)  Cristiano Ronaldo scored from a free-kick as Real Madrid claimed its third Club World Cup title after beating Brazilian team Gremio 1-0 Saturday.]]>
+				</description>
+				 				<pubDate>Sat, 16 Dec 2017 22:08:38 +0000</pubDate>
+									<enclosure url="https://b.fssta.com/uploads/2017/12/201712161225447547536-p2-2.vresize.335.220.high.0.jpeg" length="1" type="image/jpeg"/>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Pulisic rescues Dortmund with goal completing comeback]]>
+				</title>
+				<link>
+					https://www.foxsports.com/soccer/story/pulisic-rescues-dortmund-with-goal-completing-comeback-121617
+				</link>
+				<guid>
+					https://www.foxsports.com/soccer/story/pulisic-rescues-dortmund-with-goal-completing-comeback-121617
+				</guid>
+				<category>soccer</category>
+				<description>
+					<![CDATA[ DORTMUND, Germany (AP)  Christian Pulisic completed Borussia Dortmund's comeback against Hoffenheim on Saturday, securing a 2-1 victory in the Bundesliga.]]>
+				</description>
+				 				<pubDate>Sat, 16 Dec 2017 21:58:05 +0000</pubDate>
+									<enclosure url="https://b.fssta.com/uploads/2017/12/201712161324482877849-p2.vresize.335.220.high.0.jpeg" length="1" type="image/jpeg"/>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Valencia stumbles in Liga title race after 2-1 loss at Eibar]]>
+				</title>
+				<link>
+					https://www.foxsports.com/soccer/story/valencia-stumbles-in-liga-title-race-after-2-1-loss-at-eibar-121617
+				</link>
+				<guid>
+					https://www.foxsports.com/soccer/story/valencia-stumbles-in-liga-title-race-after-2-1-loss-at-eibar-121617
+				</guid>
+				<category>soccer</category>
+				<description>
+					<![CDATA[ BARCELONA, Spain (AP)  Valencia stumbled for a second straight away game when it lost 2-1 at Eibar on Saturday in the latest blow to its challenge to Barcelona at the top of the Spanish league.]]>
+				</description>
+				 				<pubDate>Sat, 16 Dec 2017 20:11:49 +0000</pubDate>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Hamsik equals Maradona's Napoli record of 115 goals]]>
+				</title>
+				<link>
+					https://www.foxsports.com/soccer/story/hamsik-equals-maradona-s-napoli-record-of-115-goals-121617-2
+				</link>
+				<guid>
+					https://www.foxsports.com/soccer/story/hamsik-equals-maradona-s-napoli-record-of-115-goals-121617-2
+				</guid>
+				<category>soccer</category>
+				<description>
+					<![CDATA[ TURIN, Italy (AP)  Marek Hamsik equaled Diego Maradona's all-time record of 115 goals for Serie A team Napoli on Saturday.]]>
+				</description>
+				 				<pubDate>Sat, 16 Dec 2017 19:26:33 +0000</pubDate>
+									<enclosure url="https://b.fssta.com/uploads/2017/12/201712161234452547613-p2-1.vresize.335.220.high.0.jpeg" length="1" type="image/jpeg"/>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Christian Pulisic nets game-winning goal against Hoffenheim | 2017-18 Bundesliga Highlights]]>
+				</title>
+				<link>
+					https://www.foxsports.com/soccer/video/1118166083575
+				</link>
+				<guid>
+					https://www.foxsports.com/soccer/video/1118166083575
+				</guid>
+				<category>soccer</category>
+				<description>
+					<![CDATA[Christian Pulisic scores late to make it 2-1 for Dortmund against Hoffenheim.]]>
+				</description>
+				 				<pubDate>Sat, 16 Dec 2017 19:24:16 +0000</pubDate>
+									<enclosure url="https://b.fssta.com/uploads/2017/12/puligoal_1280x720_1118166083740.vresize.335.220.high.0.jpg" length="1" type="image/jpeg"/>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Hamsik equals Maradona's Napoli record of 115 goals]]>
+				</title>
+				<link>
+					https://www.foxsports.com/soccer/story/hamsik-equals-maradona-s-napoli-record-of-115-goals-121617
+				</link>
+				<guid>
+					https://www.foxsports.com/soccer/story/hamsik-equals-maradona-s-napoli-record-of-115-goals-121617
+				</guid>
+				<category>soccer</category>
+				<description>
+					<![CDATA[ TURIN, Italy (AP)  Marek Hamsik equaled Diego Maradona's all-time record of 115 goals for Serie A team Napoli on Saturday.]]>
+				</description>
+				 				<pubDate>Sat, 16 Dec 2017 19:11:46 +0000</pubDate>
+									<enclosure url="https://b.fssta.com/uploads/2017/12/201712161234452547613-p2.vresize.335.220.high.0.jpeg" length="1" type="image/jpeg"/>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Borussia Dortmund vs. 1899 Hoffenheim | 2017-18 Bundesliga Highlights]]>
+				</title>
+				<link>
+					https://www.foxsports.com/soccer/video/1118158915635
+				</link>
+				<guid>
+					https://www.foxsports.com/soccer/video/1118158915635
+				</guid>
+				<category>soccer</category>
+				<description>
+					<![CDATA[Watch Matchday 17 highlights between Borussia Dortmund and Hoffenheim.]]>
+				</description>
+				 				<pubDate>Sat, 16 Dec 2017 19:04:00 +0000</pubDate>
+									<enclosure url="https://b.fssta.com/uploads/2017/12/1718-MD17-DHC-BVB-TSG_02_eng-F07_1280x720_1118194755788.vresize.335.220.high.0.jpg" length="1" type="image/jpeg"/>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Ronaldo goal gives Real Madrid its 3rd Club World Cup title]]>
+				</title>
+				<link>
+					https://www.foxsports.com/soccer/story/ronaldo-goal-gives-real-madrid-its-3rd-club-world-cup-title-121617
+				</link>
+				<guid>
+					https://www.foxsports.com/soccer/story/ronaldo-goal-gives-real-madrid-its-3rd-club-world-cup-title-121617
+				</guid>
+				<category>soccer</category>
+				<description>
+					<![CDATA[ ABU DHABI, United Arab Emirates (AP)  Cristiano Ronaldo scored from a free-kick as Real Madrid claimed its third Club World Cup title after beating Brazilian team Gremio 1-0 Saturday.]]>
+				</description>
+				 				<pubDate>Sat, 16 Dec 2017 18:59:07 +0000</pubDate>
+									<enclosure url="https://b.fssta.com/uploads/2017/12/201712161228449037572-p2.vresize.335.220.high.0.jpeg" length="1" type="image/jpeg"/>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Neymar, Mbappe score as leader PSG wins 4-1 at Rennes]]>
+				</title>
+				<link>
+					https://www.foxsports.com/soccer/story/neymar-mbappe-score-as-leader-psg-wins-4-1-at-rennes-121617
+				</link>
+				<guid>
+					https://www.foxsports.com/soccer/story/neymar-mbappe-score-as-leader-psg-wins-4-1-at-rennes-121617
+				</guid>
+				<category>soccer</category>
+				<description>
+					<![CDATA[ PARIS (AP)  The world's two most expensive soccer stars both scored as Paris Saint-Germain restored its nine-point lead in the French league with a 4-1 win at Rennes on Saturday.]]>
+				</description>
+				 				<pubDate>Sat, 16 Dec 2017 18:21:16 +0000</pubDate>
+							</item>
+			</channel>
+</rss>

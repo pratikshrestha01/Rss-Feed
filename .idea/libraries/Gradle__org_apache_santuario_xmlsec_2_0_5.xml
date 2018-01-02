@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.santuario:xmlsec:2.0.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.santuario/xmlsec/2.0.5/5105288b83e56be8bbb5e5aeac362bd04820cf46/xmlsec-2.0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.santuario/xmlsec/2.0.5/937e34081bf5d8fe319428763a8dc89d1c37b0df/xmlsec-2.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

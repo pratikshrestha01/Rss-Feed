@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mvc="http://www.springframework.org/schema/mvc"
+	xmlns:task="http://www.springframework.org/schema/task" xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:tx="http://www.springframework.org/schema/tx"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans 
+	http://www.springframework.org/schema/beans/spring-beans-4.0.xsd
+						http://www.springframework.org/schema/task
+						 http://www.springframework.org/schema/task/spring-task.xsd">
+
+	<bean id="validator"
+		class="org.springframework.validation.beanvalidation.LocalValidatorFactoryBean" />
+
+
+	<!-- Session Handler -->
+	<bean id="sessionLogApi" class="com.wallet.api.impl.SessionLogApi">
+		<constructor-arg ref="sessionLogRepository" />
+		<constructor-arg ref="sessionApi" />
+	</bean>
+
+	
+	<bean id="webServiceApi" class="com.wallet.api.impl.WebServiceApi">
+		<constructor-arg ref="webServiceRepository" />
+	</bean>
+
+	<bean id="sessionApi" class="com.wallet.api.impl.SessionApi">
+		<constructor-arg ref="userSessionRepository" />
+		<constructor-arg ref="userRepository" />
+		<constructor-arg value="0" />
+	</bean>
+
+	
+
+	<bean id="menuApi" class="com.wallet.api.impl.MenuApi">
+		<constructor-arg ref="menuRepository" />
+	</bean>
+
+	<bean id="currencyApi" class="com.wallet.api.impl.CurrencyApi">
+		<constructor-arg ref="currencyRepository" />
+	</bean>
+
+	<bean id="userApi" class="com.wallet.api.impl.UserApi">
+		<constructor-arg ref="userRepository" />
+		<constructor-arg ref="webServiceRepository" />
+		<constructor-arg ref="passwordEncoder" />
+	</bean>
+	
+	<bean id="agentApi" class="com.wallet.api.impl.AgentApi">
+		<constructor-arg ref="agentRepository" />
+		<constructor-arg ref="superAgentRepository" />
+		<constructor-arg ref="cityRepository" />
+		<constructor-arg ref="countryRepository" />
+	</bean>
+	
+	<bean id="commissionApi" class="com.wallet.api.impl.CommissionApi">
+		<constructor-arg ref="commissionRepository" />
+		<constructor-arg ref="superAgentRepository" />
+	</bean>
+
+	<bean id="countryApi" class="com.wallet.api.impl.CountryApi">
+		<constructor-arg ref="countryRepository" />
+		<constructor-arg ref="currencyRepository" />
+	</bean>
+
+	<bean id="superAgentApi" class="com.wallet.api.impl.SuperAgentApi">
+		<constructor-arg ref="superAgentRepository" />
+		<constructor-arg ref="cityRepository" />
+		<constructor-arg ref="userRepository" />
+	</bean>
+	
+		
+	<bean id="stateApi" class="com.wallet.api.impl.StateApi">
+		<constructor-arg ref="stateRepository" />
+		<constructor-arg ref="countryRepository" />
+	</bean>
+	
+	<bean id="cityApi" class="com.wallet.api.impl.CityApi">
+		<constructor-arg ref="cityRepository" />
+		<constructor-arg ref="stateRepository" />
+	</bean>
+	
+	<bean id="exchangeRateApi" class="com.wallet.api.impl.ExchangeRateApi">
+		<constructor-arg ref="exchangeRateRepository" />
+		<constructor-arg ref="currencyRepository" />
+		<constructor-arg ref="countryRepository" />
+		<constructor-arg ref="superAgentRepository" />
+		<constructor-arg ref="agentRepository" />
+	</bean>
+	
+	<bean id="complianceApi" class="com.wallet.api.impl.ComplianceApi">
+		<constructor-arg ref="complianceRepository" />
+		<constructor-arg ref="countryRepository" />
+	</bean>
+	
+	<bean id="amlApi" class="com.wallet.api.impl.AmlApi">
+		<constructor-arg ref="amlRepository" />
+		<constructor-arg ref="userRepository" />
+
+	</bean>
+
+	<bean id="discountApi" class="com.wallet.api.impl.DiscountApi">
+		<constructor-arg ref="discountRepository" />
+		<constructor-arg ref="superAgentRepository" />
+	</bean>
+
+	<bean id="bankApi" class="com.wallet.api.impl.BankApi">
+		<constructor-arg ref="bankRepository" />
+		<constructor-arg ref="countryRepository" />
+	</bean>
+	
+	<bean id="branchApi" class="com.wallet.api.impl.BranchApi">
+		<constructor-arg ref="branchRepository" />
+		<constructor-arg ref="bankRepository" />
+		<constructor-arg ref="cityRepository" />
+	</bean>
+	
+	<bean id="bankAccountApi" class="com.wallet.api.impl.BankAccountApi">
+		<constructor-arg ref="bankAccountRepository" />
+		<constructor-arg ref="bankRepository" />
+		<constructor-arg ref="branchRepository" />
+		<constructor-arg ref="userRepository" />
+	</bean>
+	
+	<bean id="transactionApi" class="com.wallet.api.impl.TransactionApi">
+		<constructor-arg ref="transactionRepository" />
+		<constructor-arg ref="currencyRepository" />
+		<constructor-arg ref="countryRepository" />
+		<constructor-arg ref="superAgentRepository" />
+		<constructor-arg ref="agentRepository" />
+		<constructor-arg ref="userRepository" />
+		<constructor-arg ref="customerRepository" />
+		<constructor-arg ref="amlRepository" />
+		<constructor-arg ref="complianceRepository" />
+		<constructor-arg ref="exchangeRateRepository" />
+		<constructor-arg ref="discountRepository" />
+		<constructor-arg ref="commissionRepository" />
+
+	</bean>
+	
+	<bean id="menuTemplateApi" class="com.wallet.api.impl.MenuTemplateApi">
+		<constructor-arg ref="menuTemplateRepository" />
+		<constructor-arg ref="menuRepository" />
+		<constructor-arg ref="userRepository" />
+	</bean>
+	<bean id="userTemplateApi" class="com.wallet.api.impl.UserTemplateApi">
+		<constructor-arg ref="userTemplateRepository" />
+		<constructor-arg ref="menuTemplateRepository" />
+		<constructor-arg ref="userRepository" />
+	</bean>
+	
+	
+	
+	
+
+	
+</beans>

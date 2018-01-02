@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TMKWallet.iml" filepath="$PROJECT_DIR$/.idea/modules/TMKWallet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tmk-wallet/tmk-wallet.iml" filepath="$PROJECT_DIR$/.idea/modules/tmk-wallet/tmk-wallet.iml" group="tmk-wallet" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tmk-wallet-cas/tmk-wallet-cas.iml" filepath="$PROJECT_DIR$/.idea/modules/tmk-wallet-cas/tmk-wallet-cas.iml" group="tmk-wallet-cas" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tmk-wallet-cas/tmk-wallet-cas_main.iml" filepath="$PROJECT_DIR$/.idea/modules/tmk-wallet-cas/tmk-wallet-cas_main.iml" group="tmk-wallet-cas" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tmk-wallet-cas/tmk-wallet-cas_test.iml" filepath="$PROJECT_DIR$/.idea/modules/tmk-wallet-cas/tmk-wallet-cas_test.iml" group="tmk-wallet-cas" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tmk-wallet-reporting/tmk-wallet-reporting.iml" filepath="$PROJECT_DIR$/.idea/modules/tmk-wallet-reporting/tmk-wallet-reporting.iml" group="tmk-wallet-reporting" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tmk-wallet-reporting/tmk-wallet-reporting_main.iml" filepath="$PROJECT_DIR$/.idea/modules/tmk-wallet-reporting/tmk-wallet-reporting_main.iml" group="tmk-wallet-reporting" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tmk-wallet-reporting/tmk-wallet-reporting_test.iml" filepath="$PROJECT_DIR$/.idea/modules/tmk-wallet-reporting/tmk-wallet-reporting_test.iml" group="tmk-wallet-reporting" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tmk-wallet-services/tmk-wallet-services.iml" filepath="$PROJECT_DIR$/.idea/modules/tmk-wallet-services/tmk-wallet-services.iml" group="tmk-wallet-services" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tmk-wallet-services/tmk-wallet-services_main.iml" filepath="$PROJECT_DIR$/.idea/modules/tmk-wallet-services/tmk-wallet-services_main.iml" group="tmk-wallet-services" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tmk-wallet-services/tmk-wallet-services_test.iml" filepath="$PROJECT_DIR$/.idea/modules/tmk-wallet-services/tmk-wallet-services_test.iml" group="tmk-wallet-services" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tmk-wallet-test/tmk-wallet-test.iml" filepath="$PROJECT_DIR$/.idea/modules/tmk-wallet-test/tmk-wallet-test.iml" group="tmk-wallet-test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tmk-wallet-test/tmk-wallet-test_main.iml" filepath="$PROJECT_DIR$/.idea/modules/tmk-wallet-test/tmk-wallet-test_main.iml" group="tmk-wallet-test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tmk-wallet-test/tmk-wallet-test_test.iml" filepath="$PROJECT_DIR$/.idea/modules/tmk-wallet-test/tmk-wallet-test_test.iml" group="tmk-wallet-test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tmk-wallet/tmk-wallet_main.iml" filepath="$PROJECT_DIR$/.idea/modules/tmk-wallet/tmk-wallet_main.iml" group="tmk-wallet" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tmk-wallet/tmk-wallet_test.iml" filepath="$PROJECT_DIR$/.idea/modules/tmk-wallet/tmk-wallet_test.iml" group="tmk-wallet" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:fn="http://www.w3.org/2005/xpath-functions" version="2.0">
+	<channel>
+		<title>FOX Sports Digital</title>
+		<link>http://api.foxsports.com/v1/rss?tag=soccer</link>
+		<atom:link href="http://dallas.example.com/rss.xml" rel="self" type="application/rss+xml" />
+		<description>FOX Sports Content Feed</description>
+		<image>
+			<title>FOX Sports Digital</title>
+			<url>
+				http://www.foxsports.com/wp-content/themes/foxsports/assets/images/60x60.png
+			</url>
+			<link>
+				http://api.foxsports.com/v1/rss?tag=soccer
+			</link>
+		</image>
+		<pubDate>Tue, 12 Dec 2017 14:55:23 +0000</pubDate>		
+		<ttl>180</ttl>
+		<language>en-us</language>
+					<item>
+				<title>
+					<![CDATA[South Korea edges North Korea 1-0 at East Asian Championship]]>
+				</title>
+				<link>
+					https://www.foxsports.com/soccer/story/south-korea-edges-north-korea-1-0-at-east-asian-championship-121217
+				</link>
+				<guid>
+					https://www.foxsports.com/soccer/story/south-korea-edges-north-korea-1-0-at-east-asian-championship-121217
+				</guid>
+				<category>soccer</category>
+				<description>
+					<![CDATA[ TOKYO (AP)  South Korea got the better of North Korea on the soccer field on Tuesday, winning 1-0 at the East Asian Championship.]]>
+				</description>
+				 				<pubDate>Tue, 12 Dec 2017 09:59:32 +0000</pubDate>
+									<enclosure url="https://b.fssta.com/uploads/2017/12/201712120422157712832-p2.vresize.335.220.high.0.jpeg" length="1" type="image/jpeg"/>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Immobile sent off as Torino beats Lazio 3-1 in Serie A]]>
+				</title>
+				<link>
+					https://www.foxsports.com/soccer/story/immobile-sent-off-as-torino-beats-lazio-3-1-in-serie-a-121117
+				</link>
+				<guid>
+					https://www.foxsports.com/soccer/story/immobile-sent-off-as-torino-beats-lazio-3-1-in-serie-a-121117
+				</guid>
+				<category>soccer</category>
+				<description>
+					<![CDATA[ ROME (AP)  Lazio striker Ciro Immobile was sent off as Torino ended a four-match winless streak with a 3-1 victory in Serie A on Monday.]]>
+				</description>
+				 				<pubDate>Mon, 11 Dec 2017 22:24:38 +0000</pubDate>
+									<enclosure url="https://b.fssta.com/uploads/2017/12/201712111508545191364-p2.vresize.335.220.high.0.jpeg" length="1" type="image/jpeg"/>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Girona defeats struggling Espanyol 1-0 in Spanish league]]>
+				</title>
+				<link>
+					https://www.foxsports.com/soccer/story/girona-defeats-struggling-espanyol-1-0-in-spanish-league-121117
+				</link>
+				<guid>
+					https://www.foxsports.com/soccer/story/girona-defeats-struggling-espanyol-1-0-in-spanish-league-121117
+				</guid>
+				<category>soccer</category>
+				<description>
+					<![CDATA[ MADRID (AP)  Girona avoided conceding late this time, holding on to beat Catalan rival Espanyol 1-0 in the Spanish league on Monday.]]>
+				</description>
+				 				<pubDate>Mon, 11 Dec 2017 22:20:25 +0000</pubDate>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Ref holds up Cyprus club soccer game after fan trouble]]>
+				</title>
+				<link>
+					https://www.foxsports.com/soccer/story/ref-holds-up-cyprus-club-soccer-game-after-fan-trouble-121117
+				</link>
+				<guid>
+					https://www.foxsports.com/soccer/story/ref-holds-up-cyprus-club-soccer-game-after-fan-trouble-121117
+				</guid>
+				<category>soccer</category>
+				<description>
+					<![CDATA[ NICOSIA, Cyprus (AP)  A Cyprus first-division match between APOEL Nicosia and AEL Limassol was interrupted for more than an hour, attracted riot police, and finished amid near-empty stands on Monday.]]>
+				</description>
+				 				<pubDate>Mon, 11 Dec 2017 20:31:16 +0000</pubDate>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Stu Holden is helping Hurricane Harvey victims with 'Kick in for Houston' charity soccer match]]>
+				</title>
+				<link>
+					https://www.foxsports.com/soccer/video/1113985091561
+				</link>
+				<guid>
+					https://www.foxsports.com/soccer/video/1113985091561
+				</guid>
+				<category>soccer</category>
+				<description>
+					<![CDATA[Stu Holden is bringing athletes and celebrities together for 'Kick in for Houston,' a charity soccer match to benefit victims of Hurricane Harvey.]]>
+				</description>
+				 				<pubDate>Mon, 11 Dec 2017 18:27:55 +0000</pubDate>
+									<enclosure url="https://b.fssta.com/uploads/2017/12/71A6E45B-3EEF-1ADF-EC74-46D55AF4ED21_1113985091561_353000_1280x720_1114246211927.vresize.335.220.high.0.jpg" length="1" type="image/jpeg"/>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Milan paired with Ludogorets in last 32 of Europa League]]>
+				</title>
+				<link>
+					https://www.foxsports.com/soccer/story/milan-paired-with-ludogorets-in-last-32-of-europa-league-121117
+				</link>
+				<guid>
+					https://www.foxsports.com/soccer/story/milan-paired-with-ludogorets-in-last-32-of-europa-league-121117
+				</guid>
+				<category>soccer</category>
+				<description>
+					<![CDATA[ NYON, Switzerland (AP)  AC Milan's hunt for the only European title it lacks will continue against Ludogorets Razgrad in the last 32 of the Europa League.]]>
+				</description>
+				 				<pubDate>Mon, 11 Dec 2017 14:07:47 +0000</pubDate>
+									<enclosure url="https://b.fssta.com/uploads/2017/12/201712101542565678541-p2.vresize.335.220.high.0.jpeg" length="1" type="image/jpeg"/>
+							</item>
+					<item>
+				<title>
+					<![CDATA[PAOK thrashes Panathinaikos 4-0 in Greek league]]>
+				</title>
+				<link>
+					https://www.foxsports.com/soccer/story/paok-thrashes-panathinaikos-4-0-in-greek-league-121017
+				</link>
+				<guid>
+					https://www.foxsports.com/soccer/story/paok-thrashes-panathinaikos-4-0-in-greek-league-121017
+				</guid>
+				<category>soccer</category>
+				<description>
+					<![CDATA[ ATHENS, Greece (AP)  Dimitris Pelkas scored twice as PAOK thrashed Panathinaikos 4-0 Sunday in the Greek league.]]>
+				</description>
+				 				<pubDate>Sun, 10 Dec 2017 23:46:48 +0000</pubDate>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Porto striker Aboubakar gets hat trick in 5-0 win at Setubal]]>
+				</title>
+				<link>
+					https://www.foxsports.com/soccer/story/porto-striker-aboubakar-gets-hat-trick-in-5-0-win-at-setubal-121017
+				</link>
+				<guid>
+					https://www.foxsports.com/soccer/story/porto-striker-aboubakar-gets-hat-trick-in-5-0-win-at-setubal-121017
+				</guid>
+				<category>soccer</category>
+				<description>
+					<![CDATA[ LISBON, Portugal (AP)  Cameroon striker Vincent Aboubakar scored a hat trick in FC Porto's 5-0 victory at Setubal on Sunday, restoring its lead of the Portuguese league.]]>
+				</description>
+				 				<pubDate>Sun, 10 Dec 2017 22:50:55 +0000</pubDate>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Napoli draws 0-0 against Fiorentina, fails to go back top]]>
+				</title>
+				<link>
+					https://www.foxsports.com/soccer/story/napoli-draws-0-0-against-fiorentina-fails-to-go-back-top-121017-2
+				</link>
+				<guid>
+					https://www.foxsports.com/soccer/story/napoli-draws-0-0-against-fiorentina-fails-to-go-back-top-121017-2
+				</guid>
+				<category>soccer</category>
+				<description>
+					<![CDATA[ MILAN (AP)  Napoli is struggling without Lorenzo Insigne and was held to a goalless draw by Fiorentina in Serie A on Sunday.]]>
+				</description>
+				 				<pubDate>Sun, 10 Dec 2017 22:02:25 +0000</pubDate>
+									<enclosure url="https://b.fssta.com/uploads/2017/12/201712100814296656321-p2-1.vresize.335.220.high.0.jpeg" length="1" type="image/jpeg"/>
+							</item>
+					<item>
+				<title>
+					<![CDATA[Genoa-Atalanta game postponed for 24 hours due to weather]]>
+				</title>
+				<link>
+					https://www.foxsports.com/soccer/story/genoa-atalanta-game-postponed-for-24-hours-due-to-weather-121017
+				</link>
+				<guid>
+					https://www.foxsports.com/soccer/story/genoa-atalanta-game-postponed-for-24-hours-due-to-weather-121017
+				</guid>
+				<category>soccer</category>
+				<description>
+					<![CDATA[ GENOA, Italy (AP)  The Italian league game between host Genoa and Atalanta has been postponed by 24 hours due to bad weather.]]>
+				</description>
+				 				<pubDate>Sun, 10 Dec 2017 21:23:26 +0000</pubDate>
+							</item>
+			</channel>
+</rss>

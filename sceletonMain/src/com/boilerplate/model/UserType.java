@@ -1,0 +1,6 @@
+package com.boilerplate.model;
+
+public enum UserType {
+	ADMIN, FINANCIAL_INSTITUTION, MERCHANT ,SUPER_ZONE,REGIONAL_ZONE,ZONE,POINT,CUSTOMER, OPERATOR ;
+
+}

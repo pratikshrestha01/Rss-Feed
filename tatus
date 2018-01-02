@@ -1,0 +1,293 @@
+[33mcommit 48407b13781e5132c2fd4a66e555ec45d99ac82d[m
+Author: kcuttam <kc.kcuttam@gmail.com>
+Date:   Sat May 6 09:07:09 2017 +0545
+
+    css fixes
+
+[33mcommit cb295d01daeb3ac3dd4befd72ff9e63aa964d9f9[m
+Author: kcuttam <kc.kcuttam@gmail.com>
+Date:   Sat May 6 08:54:00 2017 +0545
+
+    service add from merchant fixed
+
+[33mcommit 5cb2e4cace520b8f785d482f4d0b60bbff225fc7[m
+Author: kcuttam <kc.kcuttam@gmail.com>
+Date:   Sat May 6 08:41:23 2017 +0545
+
+    all alot sim opens with one page  now
+
+[33mcommit 73bf193975eb709902a4a797dd9ff1cd2ee6f014[m
+Author: kcuttam <kc.kcuttam@gmail.com>
+Date:   Sat May 6 07:36:43 2017 +0545
+
+    All page headers and form field titles done
+
+[33mcommit 36055d7f9cac1964b6790330dda63ee295b0a36c[m
+Author: ktmroshan <YOUR EMAIL ADDRESSkhmroshan@gmail.com>
+Date:   Fri May 5 19:35:44 2017 +0545
+
+    update
+
+[33mcommit adf977edbab81effa021ff56dd651eb8734a428f[m
+Merge: be50cbfe 43ee9806
+Author: ktmroshan <khmroshan@gmail.com>
+Date:   Fri May 5 15:09:14 2017 +0545
+
+    Merge branch 'PayTime' of https://gitlab.com/skbhattarai/TMKWallet into PayTime
+
+[33mcommit be50cbfe074a9d544931f7bd0fd0ab18cd3b931e[m
+Author: ktmroshan <khmroshan@gmail.com>
+Date:   Fri May 5 15:09:04 2017 +0545
+
+    update
+
+[33mcommit 43ee9806e524b0d6a4e1937ec6f436bb9f3022bf[m
+Merge: 16bbdb81 5f3b34be
+Author: kcuttam <kc.uttamkc@gmail.com>
+Date:   Fri May 5 14:05:26 2017 +0545
+
+    Merge branch 'PayTime' of https://gitlab.com/skbhattarai/TMKWallet into PayTime
+
+[33mcommit 16bbdb81a07fa87ca53d285892d135f440965bbe[m
+Author: kcuttam <kc.uttamkc@gmail.com>
+Date:   Fri May 5 14:04:45 2017 +0545
+
+    ui change
+
+[33mcommit 5f3b34bee6cd88761570d809b910d89fd4c24674[m
+Merge: 6541b0d9 d7b800fb
+Author: ktmroshan <khmroshan@gmail.com>
+Date:   Fri May 5 10:33:00 2017 +0545
+
+    Merge branch 'PayTime' of https://gitlab.com/skbhattarai/TMKWallet into PayTime
+
+[33mcommit 6541b0d9c55589391da7c0cd5235ca7bf19c9bca[m
+Author: ktmroshan <khmroshan@gmail.com>
+Date:   Fri May 5 10:32:28 2017 +0545
+
+    update
+
+[33mcommit d7b800fbdbab13d58c9fd915be4c68367765d4bb[m
+Author: kcuttam <kc.uttamkc@gmail.com>
+Date:   Thu May 4 17:55:30 2017 +0545
+
+    Acttion button alignment fixed
+
+[33mcommit 59d1540e9f27fc175f2a063329ab82da44006e2f[m
+Merge: 3fe51613 872ceffc
+Author: kcuttam <kc.uttamkc@gmail.com>
+Date:   Thu May 4 17:14:45 2017 +0545
+
+    Admin side UI done
+
+[33mcommit 3fe51613bc1ad83a629b9bb8c35e5dde9abe03eb[m
+Author: kcuttam <kc.uttamkc@gmail.com>
+Date:   Thu May 4 17:12:03 2017 +0545
+
+    admin side ui done
+
+[33mcommit 872ceffc07d919543477da53359cdae38c6dbeee[m
+Merge: 1af7b0ff 31a91996
+Author: ktmroshan <khmroshan@gmail.com>
+Date:   Thu May 4 16:39:01 2017 +0545
+
+    update
+
+[33mcommit 1af7b0ff506d39d2a832b2b3f94fe1d22246e117[m
+Author: ktmroshan <khmroshan@gmail.com>
+Date:   Thu May 4 16:37:01 2017 +0545
+
+    update
+
+[33mcommit 31a91996e4eea995c28eba3084b832bf87c879dd[m
+Merge: 52cfe54f 967eb59a
+Author: Rustam Niraula <niraula.rustam90@gmail.com>
+Date:   Thu May 4 16:24:25 2017 +0545
+
+    conflicts solved
+
+[33mcommit 599b199d01992758b3ddb3cae23686f64cf16361[m
+Author: kcuttam <kc.uttamkc@gmail.com>
+Date:   Thu May 4 16:22:50 2017 +0545
+
+    admin side ui done
+
+[33mcommit 52cfe54fded0312c904ff4bff154659f6c0b69ef[m
+Author: Rustam Niraula <niraula.rustam90@gmail.com>
+Date:   Thu May 4 16:22:50 2017 +0545
+
+    icon upload on service and payment category
+
+[33mcommit 967eb59ae25a737af82a536e72773b1a92ae0656[m
+Merge: 0c22bbcd 4b2875e3
+Author: Ritu Maharjan <mhrzn.ritu@gmail.com>
+Date:   Thu May 4 16:15:44 2017 +0545
+
+    Merge branch 'PayTime' of https://gitlab.com/skbhattarai/TMKWallet into PayTime
+
+[33mcommit 0c22bbcdd3fb601668718cf98844b8e2cb31846b[m
+Author: Ritu Maharjan <mhrzn.ritu@gmail.com>
+Date:   Thu May 4 16:15:25 2017 +0545
+
+    MerchantManager added to PayTime
+
+[33mcommit 4b2875e34e82fff64d68c076e9fb562a24802bff[m
+Author: ktmroshan <khmroshan@gmail.com>
+Date:   Thu May 4 14:37:35 2017 +0545
+
+    update
+
+[33mcommit 11b36fc734c606c947e579ea5d73191b46554d7a[m
+Author: kcuttam <kc.uttamkc@gmail.com>
+Date:   Thu May 4 12:23:54 2017 +0545
+
+    all tables and headers completed in admin side
+
+[33mcommit 7bea4fdab5a5b5232ea5756bcc751085438ef58e[m
+Merge: 791fc0e7 90ef4cce
+Author: ktmroshan <khmroshan@gmail.com>
+Date:   Wed May 3 18:32:07 2017 +0545
+
+    Merge branch 'PayTime' of https://gitlab.com/skbhattarai/TMKWallet into PayTime
+
+[33mcommit 791fc0e713c49483cbdaef98072f37b66f02b5b0[m
+Author: ktmroshan <khmroshan@gmail.com>
+Date:   Wed May 3 18:31:40 2017 +0545
+
+    update
+
+[33mcommit 90ef4ccec31eea33d4604fef0d5ad2ec2803a08a[m
+Author: Ritu Maharjan <mhrzn.ritu@gmail.com>
+Date:   Wed May 3 17:50:19 2017 +0545
+
+    commission add to balance
+
+[33mcommit 89625fe0a19500e26f9d11ed966ee28606da5748[m
+Author: kcuttam <kc.uttamkc@gmail.com>
+Date:   Wed May 3 15:12:10 2017 +0545
+
+    point logo fixed
+
+[33mcommit d8b26c979316b894d0e3292791f967b733fc102c[m
+Author: kcuttam <kc.uttamkc@gmail.com>
+Date:   Wed May 3 15:01:38 2017 +0545
+
+    dashboard logos and scroll fixed,sidenav size fixed
+
+[33mcommit b4522c0e405fd2f04caf064a81aaf7e5255803d1[m
+Author: kcuttam <kc.uttamkc@gmail.com>
+Date:   Wed May 3 11:44:44 2017 +0545
+
+    checkout
+
+[33mcommit 60a1fcc03c9d414772c0bb60f4fbe4e3b6f300c8[m
+Author: ktmroshan <YOUR EMAIL ADDRESSkhmroshan@gmail.com>
+Date:   Wed May 3 09:01:36 2017 +0545
+
+    update
+
+[33mcommit 85bccda3d62f60c4523283070abce4936713558b[m
+Author: ktmroshan <khmroshan@gmail.com>
+Date:   Tue May 2 18:42:11 2017 +0545
+
+    update
+
+[33mcommit 303edbea7ab65a38beffaaf9a9b49a90b3237b0d[m
+Merge: b44bc620 bf5b82d0
+Author: ktmroshan <khmroshan@gmail.com>
+Date:   Tue May 2 15:31:42 2017 +0545
+
+    Merge branch 'PayTime' of https://gitlab.com/skbhattarai/TMKWallet into PayTime
+
+[33mcommit b44bc6205167ac5e6b8069ca6755db9653c62f34[m
+Author: ktmroshan <khmroshan@gmail.com>
+Date:   Tue May 2 15:31:04 2017 +0545
+
+    update
+
+[33mcommit bf5b82d0201e9d91c470ad79c7223b6fc17c6fe2[m
+Author: kcuttam <kc.uttamkc@gmail.com>
+Date:   Tue May 2 15:24:57 2017 +0545
+
+    customer transaction completed
+
+[33mcommit e302ed2060eeacd9a91ef1b561b1ba85e517723f[m
+Merge: 935d9a13 39918b91
+Author: kcuttam <kc.uttamkc@gmail.com>
+Date:   Tue May 2 15:00:52 2017 +0545
+
+    conflict removal
+
+[33mcommit 935d9a13b612ba3da16f1462b744becf6ca40282[m
+Author: kcuttam <kc.uttamkc@gmail.com>
+Date:   Tue May 2 14:55:00 2017 +0545
+
+    controller and repo for customertransaction
+
+[33mcommit 39918b91970349fc950e3913b8ca3270277847a5[m
+Author: Ritu Maharjan <mhrzn.ritu@gmail.com>
+Date:   Tue May 2 12:48:16 2017 +0545
+
+    my account in point
+
+[33mcommit 0bbf41bc82dc3c281416b7ba5b37b2d2f3783d1a[m
+Author: ktmroshan <khmroshan@gmail.com>
+Date:   Tue May 2 11:58:23 2017 +0545
+
+    update
+
+[33mcommit 52a99cfaa5dd761f7bcad4099a3e1a5e410561ad[m
+Author: ktmroshan <khmroshan@gmail.com>
+Date:   Tue May 2 11:33:42 2017 +0545
+
+    update
+
+[33mcommit 00f9785b2c80a48f9cc9bb1f611a68af348fa11f[m
+Author: ktmroshan <khmroshan@gmail.com>
+Date:   Sun Apr 30 18:44:49 2017 +0545
+
+    udate
+
+[33mcommit e6d372ee6ec5fd7a7fe36134d67f5541fd821e79[m
+Author: ktmroshan <khmroshan@gmail.com>
+Date:   Sun Apr 30 12:20:42 2017 +0545
+
+    update
+
+[33mcommit 20e6b428abb63f86d6bfc20e7034988fc820b020[m
+Author: kcuttam <kc.uttamkc@gmail.com>
+Date:   Thu Apr 27 14:50:17 2017 +0545
+
+    live logo removal , paytime logo changed, sidebar padding fixed
+
+[33mcommit d31d52ba0a7aa2a70ef00fb931c66aaac45aa041[m
+Author: ktmroshan <khmroshan@gmail.com>
+Date:   Wed Apr 26 18:38:33 2017 +0545
+
+    update
+
+[33mcommit ebc3b4a0868a5dd06110e55f3baf9ffb2561f6f1[m
+Author: ktmroshan <khmroshan@gmail.com>
+Date:   Wed Apr 26 17:37:23 2017 +0545
+
+    update
+
+[33mcommit 0cb600aab92aa14b27c05cfd9ce0bc40f994db9e[m
+Author: ktmroshan <khmroshan@gmail.com>
+Date:   Tue Apr 25 19:17:15 2017 +0545
+
+    update
+
+[33mcommit 0f373ad0bc485f852702a79229289f477659be30[m
+Author: ktmroshan <khmroshan@gmail.com>
+Date:   Tue Apr 25 13:35:38 2017 +0545
+
+    update
+
+[33mcommit 1f3a3b6076dfc0d7d1f839829aec8d53ffc7a1e1[m
+Author: ktmroshan <khmroshan@gmail.com>
+Date:   Tue Apr 25 12:58:20 2017 +0545
+
+    update
+
+[33mcommit 5683709e96450b2a92e8768f4
